@@ -1,0 +1,1 @@
+SELECT college, cases FROM collegues
